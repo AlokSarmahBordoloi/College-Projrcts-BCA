@@ -1,2 +1,7 @@
-# College-Projrcts-BCA
-BCA 4th, 5th &amp; 6th semester projects.
+Alok Sarmah Bordoloi 
+Bachelors' of Computer Applications
+Jagannath Barooah College
+4th Sem
+
+Project on Creating a Front End of an Website 
+Portfolio website.
